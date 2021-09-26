@@ -1,0 +1,146 @@
+{
+  "version": "0.3.0",
+  "ghostKeys": [
+    "phantom",
+    "banshee",
+    "mare",
+    "yurei",
+    "demon",
+    "wraith",
+    "jinn",
+    "shade",
+    "oni",
+    "revenant",
+    "poltergeist",
+    "spirit",
+    "yokai",
+    "hantu",
+    "goryo",
+    "myling"
+  ],
+  "ghostData": {
+    "phantom": {
+      "name": "Fantôme",
+      "description": "Un fantôme est un fantôme qui peut posséder les vivants, le plus souvent invoqué par une planche Ouija. Il induit également la peur chez ceux qui l'entourent.",
+      "strengths": "Regarder un fantôme diminuera considérablement votre santé mentale. Cela fait référence à toutes les manifestations visibles du fantôme, y compris pendant une chasse.",
+      "weaknesses": "Prendre une photo du fantôme le fera disparaître temporairement. Ceci, cependant, n'arrêtera pas une chasse."
+    },
+    "banshee": {
+      "name": "Banshee",
+      "description": "Un Banshee est un chasseur naturel et attaquera n'importe quoi. Il est connu pour traquer ses proies une à la fois jusqu'à ce qu'il les tue.",
+      "strengths": "Un Banshee se concentrera sur un joueur à la fois jusqu'à ce qu'il les tue.",
+      "weaknesses": "Les banshees craignent le Crucifix, qui augmente la portée d'arrêt de la chasse de 3 mètres à 5 mètres contre lui."
+    },
+    "mare": {
+      "name": "Cauchemar",
+      "description": "Une jument est la source de tous les cauchemars, ce qui la rend plus puissante dans l'obscurité.",
+      "strengths": "Augmentation des chances d'attaquer dans l'obscurité. En tant que tel, il fera tout son possible pour y parvenir, comme éteindre les lumières et déclencher la boîte à fusibles.",
+      "weaknesses": "Allumer les lumières réduira ses chances d'attaquer."
+    },
+    "yurei": {
+      "name": "Yurei",
+      "description": "Un Yurei est un fantôme qui est revenu dans le monde physique, généralement dans un but de vengeance ou de haine.",
+      "strengths": "Yurei est connu pour avoir un effet plus fort sur la santé mentale des gens lors d'une manifestation.",
+      "weaknesses": "L'utilisation de Smudge Sticks sur le Yurei l'empêchera de se promener dans l'emplacement pendant environ 90 secondes."
+    },
+    "demon": {
+      "name": "Demon",
+      "description": "Un démon est l'un des pires fantômes que vous puissiez rencontrer. Il est connu d'attaquer sans raison.",
+      "strengths": "Les démons sont les plus agressifs et entrent davantage en mode chasse.",
+      "weaknesses": "Poser des questions réussies à un démon sur la planche Ouija n'abaissera pas la santé mentale de l'utilisateur."
+    },
+    "wraith": {
+      "name": "Spectre",
+      "description": "Un Spectre est l'un des fantômes les plus dangereux que vous trouverez. C'est aussi le seul fantôme connu qui a la capacité de voler et a parfois été connu pour voyager à travers les murs.",
+      "strengths": "Les spectres ne touchent presque jamais le sol. Les bruits d'empreinte d'un spectre seront rares, voire inexistants, et ils peuvent traverser directement les portes des murs sans avoir à les ouvrir.",
+      "weaknesses": "Les spectres ont une réaction toxique au sel. Si un Wraith entre en contact avec un tas de sel, il cessera immédiatement d'attaquer."
+    },
+    "jinn": {
+      "name": "Djinn",
+      "description": "Un djinn est un fantôme territorial qui attaque lorsqu'il est menacé. Il a également été connu pour voyager à une vitesse importante.",
+      "strengths": "Un djinn voyagera plus vite si sa victime est loin.",
+      "weaknesses": "Éteindre la source d'alimentation de l'emplacement empêchera le djinn d'utiliser sa capacité."
+    },
+    "shade": {
+      "name": "Ombre",
+      "description": "Une ombre est connue pour être un fantôme timide. Il est prouvé qu'un Shade arrêtera toute activité paranormale s'il y a plusieurs personnes à proximité.",
+      "strengths": "En tant que fantôme timide, une Ombre effectuera rarement des actions en présence de deux personnes ou plus, ce qui la rend plus difficile à détecter.",
+      "weaknesses": "A l'inverse, une Ombre lancera rarement une Chasse lorsque les joueurs sont regroupés."
+    },
+    "oni": {
+      "name": "Oni",
+      "description": "Les Onis sont un cousin du Démon et possèdent une force extrême. Il y a eu des rumeurs selon lesquelles ils deviennent plus actifs autour de leur proie",
+      "strengths": "Les Oni sont plus actifs lorsque les gens sont à proximité et ont été vus déplacer des objets à grande vitesse.",
+      "weaknesses": "Être plus actif rendra l'Oni plus facile à trouver et à identifier."
+    },
+    "revenant": {
+      "name": "Revenant",
+      "description": "Un Revenant est un fantôme lent mais violent qui attaquera sans discernement. Il a été dit qu'il voyageait à une vitesse considérablement élevée lors de la chasse.",
+      "strengths": "Un Revenant voyagera à une vitesse nettement plus rapide lorsqu'il chassera une victime. De plus, le Revenant peut changer librement la personne qu'il cible pendant une chasse.",
+      "weaknesses": "Se cacher du Revenant le fera se déplacer très lentement."
+    },
+    "poltergeist": {
+      "name": "Poltergeist",
+      "description": "L'un des fantômes les plus célèbres, un poltergeist, également connu sous le nom de fantôme bruyant, peut manipuler des objets autour de lui pour semer la peur chez ses victimes.",
+      "strengths": "Un poltergeist est capable d'influencer plus d'objets à la fois que n'importe quel autre fantôme et est capable de fermer plusieurs portes à la fois.",
+      "weaknesses": "Un poltergeist est presque inefficace dans une pièce vide."
+    },
+    "spirit": {
+      "name": "Esprit",
+      "description": "Un esprit est le fantôme le plus courant que vous rencontrerez, mais il est toujours très puissant et dangereux. Ils sont généralement découverts sur l'un de leurs terrains de chasse après une mort inexpliquée.",
+      "strengths": "L'esprit n'a pas de forces perceptibles, mais il est connu pour augmenter sa chasse à mesure que votre santé mentale diminue.",
+      "weaknesses": "L'utilisation de Smudge Sticks sur un esprit l'empêchera d'attaquer pendant 180 secondes au lieu de 90."
+    },
+    "yokai": {
+      "name": "Yokai",
+      "description": "Un Yokai est un type commun de fantôme qui est attiré par les voix humaines. Ils peuvent généralement être trouvés hantant les maisons familiales.",
+      "strengths": "Parler près d'un Yokai le mettra en colère et augmentera ses chances d'attaquer.",
+      "weaknesses": "Lorsqu'il chasse, un Yokai ne peut entendre que des voix proches de lui."
+    },
+    "hantu": {
+      "name": "Hantu",
+      "description": "Un Hantu est un fantôme rare que l'on peut trouver dans les climats chauds. Ils sont connus pour attaquer souvent par temps froid.",
+      "strengths": "Des températures plus basses peuvent amener le Hantu à se déplacer à des vitesses plus rapides.",
+      "weaknesses": "Un Hantu se déplacera plus lentement dans les zones plus chaudes."
+    },
+    "goryo": {
+      "name": "Goryo",
+      "description": "L'utilisation d'une caméra vidéo est le seul moyen de visualiser un Goryo, lorsqu'il passe à travers un projecteur DOTS.",
+      "strengths": "Un Goryo ne se montrera généralement à la caméra que s'il n'y a personne à proximité.",
+      "weaknesses": "Ils sont rarement vus loin de leur lieu de mort."
+    },
+    "myling": {
+      "name": "Myling",
+      "description": "Un Myling est un fantôme très vocal et actif. On dit qu'ils sont silencieux lorsqu'ils chassent leurs proies.",
+      "strengths": "Un Myling est connu pour être plus silencieux lors de la chasse.",
+      "weaknesses": "Les mylings émettent plus fréquemment des sons paranormaux."
+    }
+  },
+  "ghostEvidence": {
+    "phantom": ["spirit", "fingerprints", "dots"],
+    "banshee": ["orb", "fingerprints", "dots"],
+    "mare": ["orb", "spirit", "writing"],
+    "yurei": ["freezing", "orb", "dots"],
+    "demon": ["freezing", "writing", "fingerprints"],
+    "wraith": ["emf", "spirit", "dots"],
+    "jinn": ["freezing", "emf", "fingerprints"],
+    "shade": ["freezing", "emf", "writing"],
+    "oni": ["freezing", "emf", "dots"],
+    "revenant": ["freezing", "orb", "writing"],
+    "poltergeist": ["spirit", "writing", "fingerprints"],
+    "spirit": ["emf", "spirit", "writing"],
+    "yokai": ["orb", "spirit", "dots"],
+    "hantu": ["freezing", "orb", "fingerprints"],
+    "goryo": ["emf", "fingerprints", "dots"],
+    "myling": ["emf", "writing", "fingerprints"]
+  },
+  "evidence": {
+    "freezing": "Températures Glaciales",
+    "emf": "EMF Niveau 5",
+    "orb": "Orbe Fantômatique",
+    "spirit": "Spirit Box",
+    "writing": "Écriture Fantômatique",
+    "fingerprints": "Empreintes",
+    "dots": "Projecteur D.O.T.S."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": "0.3.1",
+  "ghostKeys": ["phantom", "banshee", "mare"],
+  "ghostData": {
+    "phantom": {
+      "name": "Fantôme",
+      "description": "Un fantôme est un fantôme qui peut posséder les vivants, le plus souvent invoqué par une planche Ouija. Il induit également la peur chez ceux qui l'entourent.",
+      "strengths": "Regarder un fantôme diminuera considérablement votre santé mentale. Cela fait référence à toutes les manifestations visibles du fantôme, y compris pendant une chasse.",
+      "weaknesses": "Prendre une photo du fantôme le fera disparaître temporairement. Ceci, cependant, n'arrêtera pas une chasse."
+    },
+    "banshee": {
+      "name": "Banshee",
+      "description": "Un Banshee est un chasseur naturel et attaquera n'importe quoi. Il est connu pour traquer ses proies une à la fois jusqu'à ce qu'il les tue.",
+      "strengths": "Un Banshee se concentrera sur un joueur à la fois jusqu'à ce qu'il les tue.",
+      "weaknesses": "Les banshees craignent le Crucifix, qui augmente la portée d'arrêt de la chasse de 3 mètres à 5 mètres contre lui."
+    },
+    "mare": {
+      "name": "Cauchemar",
+      "description": "Une jument est la source de tous les cauchemars, ce qui la rend plus puissante dans l'obscurité.",
+      "strengths": "Augmentation des chances d'attaquer dans l'obscurité. En tant que tel, il fera tout son possible pour y parvenir, comme éteindre les lumières et déclencher la boîte à fusibles.",
+      "weaknesses": "Allumer les lumières réduira ses chances d'attaquer."
+    }
+  },
+  "ghostEvidence": {
+    "phantom": ["spirit", "fingerprints", "dots"],
+    "banshee": ["orb", "fingerprints", "dots"],
+    "mare": ["orb", "spirit", "writing"]
+  },
+  "evidence": {
+    "orb": "Orbe fantômatique",
+    "spirit": "Spirit Box",
+    "writing": "Écriture fantômatique",
+    "fingerprints": "Empreintes",
+    "dots": "Projecteur D.O.T.S."
+  }
+}
